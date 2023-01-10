@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.smitmodi.sqflite.flutter_wtih_sqflite">
    <application
-        android:label="flutter_wtih_sqflite"
+        android:label="SqfLite Demo"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

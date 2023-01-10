@@ -1,4 +1,4 @@
-# flutter_with_sqflite
+# Flutter with Sqflite
 
 A new Flutter project.
 

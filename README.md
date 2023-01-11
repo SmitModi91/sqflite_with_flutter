@@ -4,7 +4,12 @@ A new Flutter project.
 
 Check this result of insert, update, query , delete method with Sqflite in demo
 
+Main Screen
+![Screenshot_20230110_211427](https://user-images.githubusercontent.com/29421473/211832892-7b24eb93-839b-43f2-aeaf-8b518e7ad10f.png)
+
+Result
 ![result](https://user-images.githubusercontent.com/29421473/211592329-7e069631-ed8c-41ca-bfcf-9aa3118c877a.PNG)
+
 
 
 
